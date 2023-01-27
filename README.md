@@ -41,6 +41,12 @@ Publish the website in the given URL.
 ### Home Page:
 
 ![output](./images/homepage.jpg)
+![output](./images/home.png)
+![output](./images/p1.png)
+![output](./images/p2.png)
+![output](./images/p3.png)
+![output](./images/cont.png)
+![output](./images/products.png)
 
 ## Result:
 
